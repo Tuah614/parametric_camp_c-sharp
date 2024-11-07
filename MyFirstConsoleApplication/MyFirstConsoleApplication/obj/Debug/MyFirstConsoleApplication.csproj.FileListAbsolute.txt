@@ -1,0 +1,7 @@
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\parametric_camp_c-sharp\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe.config
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\parametric_camp_c-sharp\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\parametric_camp_c-sharp\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.pdb
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\parametric_camp_c-sharp\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\parametric_camp_c-sharp\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\parametric_camp_c-sharp\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.exe
+C:\Users\HamidT\OneDrive - AECOM\90. Github Repo\parametric_camp_c-sharp\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.pdb
