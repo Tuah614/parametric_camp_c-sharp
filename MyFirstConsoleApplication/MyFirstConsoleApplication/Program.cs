@@ -10,6 +10,10 @@ namespace MyFirstConsoleApplication
     {
         static void Main(string[] args)
         {
+             //this is a line of comment
+             /*
+              * multiline comments
+              * */
             Console.WriteLine("Hello World!");
             Console.ReadKey();
         }
